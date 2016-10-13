@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kcaseygover/Avatar/issues"
   },
-  "homepage": "https://github.com/kcaseygover/Avatar#readme"
+  "homepage": "https://github.com/kcaseygover/Avatar#readme",
+  "dependencies": {
+    "request": "^2.75.0"
+  }
 }
